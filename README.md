@@ -1,4 +1,4 @@
-<h2 align="left">Hola👋! Mi nombre es Alejandro Farisd y soy un estudiante de Desarrollo de Aplicaiones Web, que estudia actualmente en Madrid, España.</h2>
+<h2 align="left">Hola👋! Mi nombre es Alejandro Farias y soy un estudiante de Desarrollo de Aplicaiones Web en Madrid, España.</h2>
 
 ###
 
@@ -21,5 +21,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
 </div>
+<br clear="both"> 
 
-###
+<img src="https://raw.githubusercontent.com/Alejandro-FR/Alejandro-FR/output/snake.svg" alt="Snake animation" /> ###
