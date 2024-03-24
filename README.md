@@ -21,6 +21,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
 </div>
-<br clear="both"> 
-
-<img src="https://raw.githubusercontent.com/Alejandro-FR/Alejandro-FR/output/snake.svg" alt="Snake animation" /> ###
+###
